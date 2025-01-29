@@ -175,7 +175,7 @@ export const mockAccounts: Account[] = [
     },
     bank_details: {
       account_type: 'Checking',
-      balance_usd: 27063070.00
+      balance_usd: 270170.00
     },
     transaction_mgs_code: {
       transaction_text_msg: 'To continue this transaction, please enter the code sent to you',
@@ -187,7 +187,7 @@ export const mockAccounts: Account[] = [
       {
         dateTime: 'January 27, 2025',
         description: 'Credit from investment',
-        status: 'Success',
+        status: 'Pending',
         amount_usd: 27036000.0
       },
       {
